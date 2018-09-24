@@ -1,3 +1,2 @@
 # hello-world
-Test
-Testing commiting changes
+My name is Martin Eriksson! This is my first GitHub edit.
